@@ -1,5 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE: 16.04.2025
+## DATE: 23.04.2025
 
 NAME: MERIL GOLDLINA A  REF.NO:212224040189
 
@@ -44,7 +44,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/e560049a-3f31-4034-9846-37facb4f0dcb)
+![Screenshot 2025-04-23 155925](https://github.com/user-attachments/assets/27632c9d-7e7d-46a4-ba63-1b16c47c801e)
+
 
 
 
